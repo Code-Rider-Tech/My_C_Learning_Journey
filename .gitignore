@@ -1,0 +1,23 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.elf
+
+# VS Code / 编辑器
+.vscode/
+.idea/
+
+# Code Runner 自动生成
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 构建目录
+build/
+dist/
