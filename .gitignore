@@ -21,3 +21,7 @@ Thumbs.db
 # 构建目录
 build/
 dist/
+
+# 会话临时文件 / 推送日志
+HANDOFF.md
+push_log.txt
